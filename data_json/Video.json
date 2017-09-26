@@ -1,0 +1,121 @@
+{
+"VideoProject":[
+  [
+    {"content":"课程介绍"},
+    {"content":"1-1课程介绍","time":"01：37"},
+    {"content":"1-2案例展示","time":"12：03"}
+  ],
+  [
+    {"content":"Handlebars使用展示"},
+    {"content":"2-1Handlebars使用展示（一）","time":"30：07"},
+    {"content":"2-2Handlebars使用展示（二）","time":"15：00"},
+    {"content":"2-3Handlebars使用展示（三）","time":"11：50"},
+    {"content":"2-3Handlebars使用展示（四）","time":"07：20"}
+  ],
+  [
+    {"content":"使用Handlebars实现简单的网页案例"},
+    {"content":"3-1后台借口介绍","time":"20：11"},
+    {"content":"3-2课程列表的实现","time":"14：02"},
+    {"content":"3-3分页组件的实现（1）","time":"11：23"},
+    {"content":"3-4分页组件的交互（1）","time":"15：34"},
+    {"content":"3-5笔记本的显示隐藏逻辑实现（1）","time":"26：01"},
+    {"content":"3-5课程大纲的实现（1）","time":"06：19"},
+    {"content":"3-5笔记的渲染（1）","time":"22：10"},
+    {"content":"3-8案例的补充说明","time":"16：07"}
+  ],
+  [
+    {"content":"课程总结"},
+    {"content":"4-1课程总结","time":"11：02"}
+  ]
+],
+"videoDetailGrade":{
+  "title":"中级",
+  "content":"微信、QQ、陌陌…这些在你生活中不可缺的聊天APP原理是什么？如何实现消息送达、显示消息、进而聊天发表情图片的？又是如何实现群聊天？在本课程中将带领你全面了解IM技术，了解如何搭建IM服务器实现一个简单的聊天APP；让IM技术不再神秘"
+},
+"videoDetailNotice":[
+  {
+    "title":"课程须知",
+    "content":"通过学习Android Multidex的基本原理，并使用两种方案实现Multidex分包"
+  },
+  {
+    "title":"老师告诉你能学到什么",
+    "content":"随着项目功能迭代，apk中方法数越来越多，当方法数超过65535个之后，项目无法编译，此时需要借助分包技术，将一个apk中的dex分成多个dex,然后动态加载。"
+  }
+],
+  "videoTeacher":{
+	"img":"src/public/imgs/messi.png",
+	"title":"长安工程师",
+	"occupation":"web前端工程师"
+  },
+  "VideoGrade":{
+	"source":"10.0",
+	"people":"4",
+	"userimg":"src/public/imgs/woailuo.png",
+	"user":"梧桐树",
+	"start":"src/public/imgs/star_selected.png"
+  },
+  "VideoPinglun":[
+    {
+      "img":"src/public/imgs/messi.png",
+      "username":"aaaaaa",
+      "time":"10分钟前",
+      "title":"这是标题1",
+      "praise":"12"
+    },
+    {
+      "img":"src/public/imgs/messi.png",
+      "username":"bbbb",
+      "time":"12分钟前",
+      "title":"这是标题2",
+      "praise":"12"
+    },
+    {
+      "img":"src/public/imgs/messi.png",
+      "username":"ccccc",
+      "time":"14分钟前",
+      "title":"这是标题3",
+      "praise":"13"
+    },
+    {
+      "img":"src/public/imgs/messi.png",
+      "username":"ddddd",
+      "time":"15分钟前",
+      "title":"这是标题4",
+      "praise":"13"
+    },
+    {
+      "img":"src/public/imgs/messi.png",
+      "username":"eeeeeee",
+      "time":"16分钟前",
+      "title":"这是标题6",
+      "praise":"16"
+    }
+  ],
+  "VideoWenda":[
+    {
+      "comefrom":"Mysql  Sever",
+      "question":"子类和父类，类和对象的关系，需要考虑什么？具体什么情况下用？",
+      "score":"3"
+    },
+    {
+      "comefrom":"Mysql SQL Sever",
+      "question":"子类和父类，类和对象的关系具体什么情况下用需要考虑什么？",
+      "score":"4"
+    },
+    {
+      "comefrom":" SQL Sever",
+      "question":"子类和父类，类和对象的关系，具体什么情况下用？需要考虑什么？",
+      "score":"5"
+    },
+    {
+      "comefrom":"Mysql SQL ",
+      "question":"子类和父类类和对象的关系，具体什么情况下用？需要考虑什么？",
+      "score":"6"
+    },
+    {
+      "comefrom":"Mysql  Sever",
+      "question":"子类和父类，类和对象的关系，具体什么情况下用？需要考虑什么？",
+      "score":"7"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "titles": {
+    "title":"Handlebars模版引擎"
+  },
+  "introduces":{
+    "userspan":"中级",
+    "userp":"微信、QQ、陌陌…这些在你生活中不可缺的聊天APP原理是什么？如何实现消息送达、显示消息、进而聊天发表情图片的？又是如何实现群聊天？在本课程中将带领你全面了解IM技术，了解如何搭建IM服务器实现一个简单的聊天APP；让IM技术不再神秘"
+},
+  "teacher":{
+    "userimg":"src/public/imgs/messi.png ",
+    "userh4": "长安工程师",
+    "userspan": "web前端工程师"
+    },
+  "notice":[
+    {
+    "userh3":"课程须知",
+    "userp":"通过学习Android Multidex的基本原理，并使用两种方案实现Multidex分包"
+  },
+    {
+      "userh3":"老师告诉你能学到什么",
+      "userp":"随着项目功能迭代，apk中方法数越来越多，当方法数超过65535个之后，项目无法编译，此时需要借助分包技术，将一个apk中的dex分成多个dex,然后动态加载。"
+  }
+],
+  "CourseOutlineProject":[
+    [
+      {"content":"课程介绍"},
+      {"content":"1-1课程介绍"},
+      {"content":"1-2案例展示"}
+    ],
+    [
+      {"content":"Handlebars使用展示（一）"},
+      {"content":"2-1Handlebars使用展示（一）"},
+      {"content":"2-2Handlebars使用展示（一）"},
+      {"content":"2-3Handlebars使用展示（一）"},
+      {"content":"2-3Handlebars使用展示（一）"}
+    ],
+    [
+      {"content":"使用Handlebars实现简单的网页案例"},
+      {"content":"3-1后台借口介绍"},
+      {"content":"3-2课程列表的实现"},
+      {"content":"3-3分页组件的实现（1）"},
+      {"content":"3-4分页组件的交互（1）"},
+      {"content":"3-5笔记本的显示隐藏逻辑实现（1）"},
+      {"content":"3-5课程大纲的实现（1）"},
+      {"content":"3-5笔记的渲染（1）"},
+      {"content":"3-8案例的补充说明"}
+    ],
+    [
+      {"content":"课程总结"},
+      {"content":"4-1课程总结"}
+    ]
+  ]
+}

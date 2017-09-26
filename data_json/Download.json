@@ -1,0 +1,24 @@
+{
+  "Kechengtuijian": [
+    {
+      "img": "src/public/imgs/red.png",
+      "name": "Vue+Node+MongoDB高级全栈",
+      "Price": "￥299.00"
+    },
+    {
+      "img": "src/public/imgs/water.png",
+      "name": "React Native 开发双平台GitHub App",
+      "Price": "￥399.00"
+    },
+    {
+      "img": "src/public/imgs/pad.png",
+      "name": "前端跳槽面试必备技巧",
+      "Price": "￥199.00"
+    },
+    {
+      "img": "src/public/imgs/node.png",
+      "name": "Node.js项目线上服务器部署发布",
+      "Price": "￥158.00"
+    }
+  ]
+}

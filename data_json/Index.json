@@ -1,0 +1,194 @@
+{
+  "BannerLists":[
+    {
+      "img":"src/public/imgs/banner1.png"
+    },
+    {
+      "img":"src/public/imgs/banner1.png"
+    },
+    {
+      "img":"src/public/imgs/banner1.png"
+    },
+    {
+      "img":"src/public/imgs/banner1.png"
+    },
+    {
+      "img":"src/public/imgs/banner1.png"
+    }
+  ],
+  "NavLists":[
+    {
+      "img": "src/public/imgs/shizhan.png",
+      "name": "实战"
+    },
+    {
+      "img": "src/public/imgs/lujing.png",
+      "name": "路径"
+    },
+    {
+      "img": "src/public/imgs/yuanwen.png",
+      "name": "猿问"
+    },
+    {
+      "img": "src/public/imgs/shouji.png",
+      "name": "手记"
+    },
+    {
+      "img": "src/public/imgs/faxian.png",
+      "name": "发现"
+    }
+  ],
+  "KechengtuijianLists":[
+    {
+      "name": "PHP",
+      "qrcode": "实例学习PHP QRCode生成二维码",
+      "description": "本门课程主要讲解如何使用PHP生成识别二维码！",
+      "number": "615人学习"
+    },
+    {
+      "name": "Java",
+      "qrcode": "Java消息中间件",
+      "description": "使用Java消息中间件处理异步消息",
+      "number": "4415人学习"
+    },
+    {
+      "name": "IOS",
+      "qrcode": "ios基础入门之Foundation框架处理",
+      "description": "学会Foundation框架，能满足你所需要的大部分东西",
+      "number": "49272人学习"
+    },
+    {
+      "name": "PHP Linux",
+      "qrcode": "PHP环境LAMP/LNMP安装与配置",
+      "description": "本课程食欲PHP初学者，手把手叫你LAMP/LNMP环境安装配置",
+      "number": "25944人学习"
+    }
+  ],
+  "occupationLists":[
+    {
+      "img": "src/public/imgs/phpjinjie.png",
+      "course": "PHP进阶：面向对象及TP5框架初识",
+      "description": "完善PHP知识体系，运用TP5框架进行实战案例开发，助你从何菜鸟到肚里项目开发完美蜕变.",
+      "number": "19/门课、7人学习",
+      "price": "568.00"
+    },
+    {
+      "img": "src/public/imgs/phpjinjie.png",
+      "course": "P前段小白入门",
+      "description": "从小白到老司机，学会HTML5，CSS，JS，JQuery基础，独立开发挂号平台网页！",
+      "number": "33/门课、1384人学习",
+      "price": "499.00"
+    },
+    {
+      "img": "src/public/imgs/phpjinjie.png",
+      "course": "Java零基础入门",
+      "description": "结合实际案例，系统性学习基础语法，面向对象、常用工具类等JAVA实用型基础知识！",
+      "number": "27/门课、912人学习",
+      "price": "299.00"
+    }
+  ],
+  "recommendLists":[
+    {
+      "name": "vue",
+      "qrcode": "ios基础入门之Foundation框架处理",
+      "description": "学会Foundation框架，能满足你所需要的大部分东西",
+      "number": "49272人学习"
+    },
+    {
+      "name": "PHP",
+      "qrcode": "实例学习PHP QRCode生成二维码",
+      "description": "本门课程主要讲解如何使用PHP生成识别二维码！",
+      "number": "615人学习"
+    },
+    {
+      "name": "js",
+      "qrcode": "ios基础入门之Foundation框架处理",
+      "description": "学会Foundation框架，能满足你所需要的大部分东西",
+      "number": "49272人学习"
+    },
+    {
+      "name": "Java",
+      "qrcode": "Java消息中间件",
+      "description": "使用Java消息中间件处理异步消息",
+      "number": "4415人学习"
+    },
+    {
+      "name": "PHP Linux",
+      "qrcode": "PHP环境LAMP/LNMP安装与配置",
+      "description": "本课程食欲PHP初学者，手把手叫你LAMP/LNMP环境安装配置",
+      "number": "25944人学习"
+    },
+    {
+      "name": "ios",
+      "qrcode": "ios基础入门之Foundation框架处理",
+      "description": "学会Foundation框架，能满足你所需要的大部分东西",
+      "number": "49272人学习"
+    }
+  ],
+  "FamousteacherLists":[
+    {
+      "img": "src/public/imgs/woailuo.png",
+      "username": "扬帆远航_",
+      "job": "数据科学家"
+    },
+    {
+      "img": "src/public/imgs/daka.png",
+      "username": "编_程_浪_子",
+      "job": "PHP开发工程师"
+    },
+    {
+      "img": "src/public/imgs/woailuo.png",
+      "username": "DocMike",
+      "job": "移动开发工程师"
+    },
+    {
+      "img": "src/public/imgs/daka.png",
+      "username": "远航ABD_",
+      "job": "幻想科学家"
+    },
+    {
+      "img": "src/public/imgs/woailuo.png",
+      "username": "Allwedown",
+      "job": "观察科学家"
+    }
+  ],
+  "GuessyoulikeLists":[
+  {
+    "name": "js",
+    "qrcode": "ios基础入门之Foundation框架处理",
+    "description": "学会Foundation框架，能满足你所需要的大部分东西",
+    "number": "49272人学习"
+  },
+    {
+      "name": "PHP",
+      "qrcode": "实例学习PHP QRCode生成二维码",
+      "description": "本门课程主要讲解如何使用PHP生成识别二维码！",
+      "number": "615人学习"
+    },
+    {
+      "name": "Java",
+      "qrcode": "Java消息中间件",
+      "description": "使用Java消息中间件处理异步消息",
+      "number": "4415人学习"
+    },
+    {
+      "name": "ios",
+      "qrcode": "ios基础入门之Foundation框架处理",
+      "description": "学会Foundation框架，能满足你所需要的大部分东西",
+      "number": "49272人学习"
+    },
+    {
+      "name": "vue",
+      "qrcode": "ios基础入门之Foundation框架处理",
+      "description": "学会Foundation框架，能满足你所需要的大部分东西",
+      "number": "49272人学习"
+    },
+    {
+      "name": "PHP Linux",
+      "qrcode": "PHP环境LAMP/LNMP安装与配置",
+      "description": "本课程食欲PHP初学者，手把手叫你LAMP/LNMP环境安装配置",
+      "number": "25944人学习"
+    }
+
+  ]
+}

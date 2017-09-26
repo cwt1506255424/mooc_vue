@@ -1,0 +1,36 @@
+{
+  "PersinfoList": [
+    {
+    "classify":"关注",
+    "num":"2"
+    },
+    {
+      "classify":"粉丝",
+      "num":"0"
+    },
+    {
+      "classify":"积分",
+      "num":"0"
+    }
+  ],
+"MineList":[
+  {"img":"src/public/imgs/mine1.png", "kecheng1":"我的课程"},
+  {"img":"src/public/imgs/mine2.png", "kecheng1":"我的实战"},
+  {"img":"src/public/imgs/mine3.png", "kecheng1":"我的猿问"},
+  {"img":"src/public/imgs/mine4.png", "kecheng1":"我的手记"}
+],
+  "HistoryPathClassList":[
+    {"img":"src/public/imgs/history.png", "classify":"历史记录"},
+    {"img":"src/public/imgs/mypath.png", "classify":"我的路径"},
+    {"img":"src/public/imgs/myclass.png", "classify":"我的课表"}
+  ],
+  "OrderShopcartEasyBuyList":[
+    {"img":"src/public/imgs/history.png", "classify":"历史记录"},
+    {"img":"src/public/imgs/mypath.png", "classify":"我的路径"},
+    {"img":"src/public/imgs/myclass.png", "classify":"我的课表"}
+  ],
+  "NightSettingList":[
+    {"img": "src/public/imgs/mine1.png", "setting": "夜间模式"},
+    {"img": "src/public/imgs/settings.png", "setting": "设置"}
+  ]
+}
